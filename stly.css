@@ -1,0 +1,10 @@
+#idDiv{
+    background-color: red;
+}
+
+#idDiv.blockDiv{
+    background-color: aqua;
+}
+div#idDiv.blockDiv{
+    background-color: gray;
+}
